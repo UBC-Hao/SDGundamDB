@@ -1,0 +1,8 @@
+.image-with-margin {
+    margin: 10px;
+    transform: scale(1);
+}
+
+.smallfont{
+    font-size: 0.7em;
+}

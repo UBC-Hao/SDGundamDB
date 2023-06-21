@@ -1,0 +1,21 @@
+[
+    {
+      "id": 11002,
+      "name": "馒头，包子",
+      "info": "可以从扭蛋中获取",
+      "urls": [
+        "https://www.bilibili.com/video/BV1Jv41137uG/",
+        "https://www.bilibili.com/video/BV1Jv41137uG/"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "元素2",
+      "info": "这是元素2的信息。",
+      "urls": [
+        "https://example.com/url3",
+        "https://example.com/url4"
+      ]
+    }
+  ]
+  
